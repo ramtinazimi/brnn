@@ -6,19 +6,17 @@ This is the project I am undergoing in 2014 with Dr.Langetepe at the Universtiy 
 Motivation of probem:
 Imagine a city with customers (red points) and grocery stores(blue points).
 Now, we would like to build a new grocery store who can attract the maximum possible amout of customers.
-
 Question: Where should such a new grocery store be placed?
-
 Note: We assume that every customers goes to the nearest grocery store.
+
+Best location means the location where as much customers can be covered, also known as MAXCOV. 
+This problem can be solved in O(n²), wheres as n is the number of customers.
 
 Due to copyright I was not able to publish all the code here but you can still try out the project by downloadig the .jar-file. This is an applet of the final project.
 Below is a description on how to use the applet.
 
 If there are any more questions, please be free to contact me.
 
-------------------------------------------------------------------------------------------------------------------------
-
-Given a set of m blue points, representing the facilities, and a set of n red points, representing the customers, we look for the best location for a new facility. Best location means the location where as much customers can be covered, also known as MAXCOV. We assume that a customer always prefers the nearest located facility. This problem can be solved in O(n²).
 
 How to use the applet
 ------------------------------------------------
