@@ -21,7 +21,7 @@ If there are any more questions, please be free to contact me.
 Given a set of m blue points, representing the facilities, and a set of n red points, representing the customers, we look for the best location for a new facility. Best location means the location where as much customers can be covered, also known as MAXCOV. We assume that a customer always prefers the nearest located facility. This problem can be solved in O(n²).
 
 How to use the applet
-_____________________
+------------------------------------------------
 
 Mouse functionalities
 
