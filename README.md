@@ -12,7 +12,7 @@ Note: We assume that every customers goes to the nearest grocery store.
 Best location means the location where as much customers can be covered, also known as MAXCOV. 
 This problem can be solved in O(n²), wheres as n is the number of customers.
 
-Due to copyright I was not able to publish all the code here but you can still try out the project by downloadig the .jar-file. This is an applet of the final project.
+Due to copyright I was not able to publish all the code here but you can still try out the project by downloadig the BRNN.jar file (Click on it. You get onto a new link. Now Click on 'View Raw'). This is an applet of the final project.
 Below is a description on how to use the applet.
 
 If there are any more questions, please be free to contact me.
